@@ -1,1 +1,1 @@
-# odin-recipes
+Project made by Jordan Dyreson to develop basic skills of HTML and git in the form of a website showcasing mock recipes (Media sources used are not owned by me and are being used educationally)
